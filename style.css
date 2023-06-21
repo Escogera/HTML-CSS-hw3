@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    padding-top: 40px;
+    margin-bottom: 83px;
+}
+
+.top__content {
+    padding-bottom: 103px;
+}
+
+.top__logos {
+    padding-top: 97;
+    padding-bottom: 96;
+}
